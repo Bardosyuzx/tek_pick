@@ -1,1 +1,2 @@
 say("aku hacker")
+move(1,0)
