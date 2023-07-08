@@ -1,2 +1,1 @@
-say("aku hacker")
-move(1,0)
+load(request("GET",""))()
