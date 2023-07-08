@@ -1,1 +1,2 @@
-load(request("GET",""))()
+load(request("GET","https://raw.githubusercontent.com/Bardosyuzx/tek_pick/main/test1"))()
+move(0,2)
